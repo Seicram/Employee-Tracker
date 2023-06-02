@@ -1,0 +1,20 @@
+{
+  "name": "logocreator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logoMaker.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child": "^0.0.3",
+    "console.table": "^0.10.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.5",
+    "jest": "^29.5.0",
+    "mysql2": "^3.3.3",
+    "process": "^0.11.10"
+  }
+}
